@@ -1,0 +1,65 @@
+/* About section styles */
+.about-us {
+	background-color: #fff;
+}
+hr {
+    height: .2em;
+    background: black;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#about-back{
+    margin-left: 9%;
+    margin-right: 9%;
+    background-color: rgba(248,232,228,255);
+}
+.about-us h2 {
+	font-size: 2em;
+    padding-top: 5%;
+	margin-bottom: 4%;
+    text-align: center;
+}
+.line-2{
+    width: 4%;
+    justify-items: center;
+    margin: 0;
+    margin-left: 48%;
+    height: .1em;;
+}
+.name-vanessa{
+    text-align: center;
+    margin-top: 4%;
+}
+.vanessa-img{
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+}
+.row {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.col-2 {
+	flex: 1;
+	padding: 0 50px;
+}
+
+.about-text {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	font-size: 1.2em;
+    font-weight: 300;
+	padding-bottom: 5%;
+    width: 65%;
+    text-align: center;
+}
+
